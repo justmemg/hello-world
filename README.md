@@ -1,3 +1,3 @@
 # hello-world
-another repository
-im me i enjoy learning 
+im me 
+learning somthing new
